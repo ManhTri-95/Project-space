@@ -1,0 +1,22 @@
+.btn {
+    font-size: 30px;
+    font-weight: bold;
+    color: var(--white);
+    padding: 18px 41px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    letter-spacing: -0.03em;
+    cursor: pointer;
+}
+
+.btn-small {
+    font-size: 18px;
+    padding: 8px 18px;
+    border-radius: 4px;
+}
+
+.outline-primary {
+   border: 2px solid var(--secondary);
+   color: var(--primary);
+
+}
